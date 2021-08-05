@@ -30,7 +30,7 @@ body {
 
 #nameScreen label,
 #emailScreen label {
-  color: #ff77dd;
+  color: #111122;
 }
 
 #nameScreen input,
@@ -112,6 +112,10 @@ body {
   text-transform: uppercase;
   padding: 8px 36px;
   margin-bottom: 6px;
+}
+
+#buttonsContainer button.buttonSkip {
+  background-color: transparent;
 }
 
 #nameScreen label {
