@@ -116,11 +116,16 @@ body {
 
 #buttonsContainer button.buttonSkip {
   background-color: transparent;
+  color: #2900d7;
 }
 
 #nameScreen label {
   font-weight: 300;
   font-size: 14px;
+}
+
+span.optionCheckmark {
+  background-color: #2900d7;
 }
 
 #nameScreen p {
