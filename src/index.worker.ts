@@ -57,7 +57,7 @@ export const siteData: SiteData = {
     markup: `
       <div class="flex flex-grow flex-col items-center">
         <div>
-          <p id="awesome" class="mt-12 mb-6 mx-3 text-center">Nice work!<br /><br />We will check out your video ASAP.</p>
+          <p id="awesome" class="mt-12 mb-6 mx-3 text-center">Nice work!<br /><br />We will check out your<br />video ASAP.</p>
           <div class="items-center flex flex-col">
             <a href="https://cryptovenetians.com">
               <img src="THEME_FILE_ROOT/logo.png" style="width: 300px;" />
