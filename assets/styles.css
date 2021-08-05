@@ -125,7 +125,7 @@ body {
   font-size: 14px;
 }
 
-span.optionCheckmark {
+#emailScreen span.optionCheckmark {
   background-color: #2900d7;
   border-radius: 0;
 }
