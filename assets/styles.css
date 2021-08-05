@@ -40,9 +40,9 @@ body {
   background-color: #2900d7;
   font-family: Poppins;
   font-weight: 500;
-  font-size: 0.75rem;
+  font-size: 1rem;
   text-transform: uppercase;
-  padding: 2px 36px;
+  padding: 12px 36px;
   margin-bottom: 6px;
   border-radius: 0;
 }
@@ -87,9 +87,9 @@ body {
   background-color: #2900d7;
   font-family: Poppins;
   font-weight: 500;
-  font-size: 0.75rem;
+  font-size: 1rem;
   text-transform: uppercase;
-  padding: 2px 36px;
+  padding: 12px 36px;
   margin-bottom: 6px;
 }
 
@@ -124,14 +124,6 @@ body {
   font-weight: 400;
   font-size: 1.2rem;
   line-height: 1.4rem;
-}
-
-#hashtag {
-  position: absolute;
-  left: 1.5rem;
-  bottom: 1.5rem;
-  font-weight: 400;
-  font-size: 1rem;
 }
 
 #videoArea {
