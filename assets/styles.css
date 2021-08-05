@@ -35,6 +35,7 @@ body {
 
 #nameScreen input,
 #nameScreen button,
+#emailScreen,
 #emailScreen input,
 #emailScreen button {
   border-radius: 0;
@@ -126,6 +127,7 @@ body {
 
 span.optionCheckmark {
   background-color: #2900d7;
+  border-radius: 0;
 }
 
 #nameScreen p {
@@ -151,7 +153,7 @@ span.optionCheckmark {
 }
 
 #checkusout {
-  font-weight: 400;
+  font-weight: 500;
   font-size: 1.2rem;
   line-height: 1.4rem;
 }
