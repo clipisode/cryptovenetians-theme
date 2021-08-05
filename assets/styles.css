@@ -42,7 +42,7 @@ body {
   font-weight: 500;
   font-size: 1rem;
   text-transform: uppercase;
-  padding: 12px 36px;
+  padding: 8px 36px;
   margin-bottom: 6px;
   border-radius: 0;
 }
@@ -63,19 +63,19 @@ body {
   text-align: center;
   font-family: Poppins;
   font-weight: 300;
-  font-size: 10px;
-  line-height: 13px;
-  width: 50%;
-  margin: 6px auto;
+  font-size: 12px;
+  line-height: 15px;
+  width: 80%;
+  margin: 12px auto;
 }
 
 #introTerms a {
   color: white;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 #introBottom {
-  padding-bottom: 50px;
+  padding-bottom: 60px;
   background-image: url(./cv-strap.png),
     linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 80%);
   background-size: contain;
@@ -89,7 +89,7 @@ body {
   font-weight: 500;
   font-size: 1rem;
   text-transform: uppercase;
-  padding: 12px 36px;
+  padding: 8px 36px;
   margin-bottom: 6px;
 }
 
