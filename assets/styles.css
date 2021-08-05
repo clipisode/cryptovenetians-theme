@@ -22,6 +22,10 @@ body {
   font-weight: 500;
 }
 
+#detailsContainer {
+  background: #ff77dd;
+}
+
 #introHostName {
   font-family: Poppins;
   font-weight: 500;
@@ -59,7 +63,7 @@ body {
 
 #uploadLink span {
   color: white;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 #introTerms {
