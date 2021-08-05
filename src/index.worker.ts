@@ -8,17 +8,16 @@ export const siteData: SiteData = {
   customCssKey: "styles.css",
   meta: {
     // values: TOPIC_TITLE
-    title: "TOPIC_TITLE • Payghaam",
+    title: "TOPIC_TITLE • CryptoVenetians",
   },
-  brandColor: "#5f21b7",
   introScreenDesktop: {
     // values: THEME_FILE_ROOT, TOPIC_TITLE, QR_CODE, INVITATION_DISPLAY_NAME, INVITATION_URL
     markup: `
       <div class="flex flex-col items-center justify-between text-center flex-grow ">
         <div class="flex flex-col items-center justify-between text-center">
           <div class="m-2">
-            <a href="https://payghaam.com">
-              <img src="THEME_FILE_ROOT/logo.png" style="width: 200px; height: 133px;" />
+            <a href="https://cryptovenetians.com">
+              <img src="THEME_FILE_ROOT/logo.png" style="width: 300px; height: 200px;" />
             </a>
           </div>
           <h1 class="mt-3 mb-6 text-xl md:text-2xl max-h-28 md:max-h-32 overflow-hidden font-bold">TOPIC_TITLE</h1>
@@ -34,7 +33,7 @@ export const siteData: SiteData = {
     // values: UPLOAD_PERCENTAGE, INVITATION_DISPLAY_NAME, SOCIAL_NETWORK
     nameScreenHeader: `
       <div class="my-2 flex flex-col items-center">
-        <img src="THEME_FILE_ROOT/icon.png" class="h-24" />
+        <img src="THEME_FILE_ROOT/icon.png" class="h-36" />
       </div>
     `,
   },
@@ -45,8 +44,8 @@ export const siteData: SiteData = {
         <div>
           <p class="mt-12 mb-12 mx-3 text-center">This invitation is no longer <span class="whitespace-nowrap">accepting replies.</span></p>
           <div class="items-center flex flex-col">
-            <a href="https://payghaam.com">
-              <img src="THEME_FILE_ROOT/logo.png" style="width: 200px;" />
+            <a href="https://cryptovenetians.com">
+              <img src="THEME_FILE_ROOT/logo.png" style="width: 300px;" />
             </a>
           </div>
         </div>
@@ -58,19 +57,18 @@ export const siteData: SiteData = {
     markup: `
       <div class="flex flex-grow flex-col items-center">
         <div>
-          <p id="awesome" class="mt-12 mb-6 mx-3 text-center">Awesome… all done!<br>Wasn&rsquo;t that easy?</p>
+          <p id="awesome" class="mt-12 mb-6 mx-3 text-center">Nice work! We will check out your video ASAP.</p>
           <div class="items-center flex flex-col">
-            <a href="https://payghaam.com">
-              <img src="THEME_FILE_ROOT/logo.png" style="width: 200px;" />
+            <a href="https://cryptovenetians.com">
+              <img src="THEME_FILE_ROOT/logo.png" style="width: 300px;" />
             </a>
           </div>
-          <p id="checkusout" class="mt-12 mb-12 mx-3 text-center"><b>While you&rsquo;re at it<br>check us out at</b><br>payghaam.com<br>@payghaam</p>
+          <p id="checkusout" class="mt-12 mb-12 mx-3 text-center"><b>While you&rsquo;re at it<br>check us out at</b><br>cryptovenetians.com<br>@cryptovenetians</p>
         </div>
       </div>
-      <p id="hashtag"><b>#</b>Poocho<b>Sawaal</b></p>
       `,
   },
   warningWide: {
-    description: `<p class="mb-4">Tall videos work best because Payghaam combines your video with a star&rsquo;s tall answer video.</p><p class="mb-4"p>We can crop this video and make it tall or you can choose a new video.</p>`,
+    description: `<p class="mb-4">Tall videos work best for CryptoVenetians.</p><p class="mb-4"p>We can crop this video and make it tall or you can choose a new video.</p>`,
   },
 };

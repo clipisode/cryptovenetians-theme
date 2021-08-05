@@ -28,6 +28,11 @@ body {
   background: #ff77dd;
 }
 
+#nameScreen label,
+#emailScreen label {
+  color: #ff77dd;
+}
+
 #nameScreen input,
 #nameScreen button,
 #emailScreen input,
@@ -120,7 +125,7 @@ body {
 }
 
 #successScreen {
-  background-color: #5f21b7;
+  background-color: #ff77dd;
 }
 
 #successScreen p {
