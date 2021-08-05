@@ -57,13 +57,13 @@ export const siteData: SiteData = {
     markup: `
       <div class="flex flex-grow flex-col items-center">
         <div>
-          <p id="awesome" class="mt-12 mb-6 mx-3 text-center">Nice work! We will check out your video ASAP.</p>
+          <p id="awesome" class="mt-12 mb-6 mx-3 text-center">Nice work!<br /><br />We will check out your video ASAP.</p>
           <div class="items-center flex flex-col">
             <a href="https://cryptovenetians.com">
               <img src="THEME_FILE_ROOT/logo.png" style="width: 300px;" />
             </a>
           </div>
-          <p id="checkusout" class="mt-12 mb-12 mx-3 text-center"><b>While you&rsquo;re at it<br>check us out at</b><br>cryptovenetians.com<br>@cryptovenetians</p>
+          <p id="checkusout" class="mt-4 mb-12 mx-3 text-center">cryptovenetians.com<br><br>@cryptovenetians</p>
         </div>
       </div>
       `,
