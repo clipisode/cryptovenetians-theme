@@ -22,8 +22,17 @@ body {
   font-weight: 500;
 }
 
-#detailsContainer {
+#detailsContainer,
+#nameScreen,
+#emailScreen {
   background: #ff77dd;
+}
+
+#nameScreen input,
+#nameScreen button,
+#emailScreen input,
+#emailScreen button {
+  border-radius: 0;
 }
 
 #introHostName {
